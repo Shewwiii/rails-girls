@@ -1,0 +1,2 @@
+# rails-girls
+RailsaGirls project
